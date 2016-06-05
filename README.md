@@ -2,4 +2,4 @@
 
 This is the home of project 'Meeting Timer'. 
 
-Auther: Thommas Jodehl
+Author: Thommas Jodehl
